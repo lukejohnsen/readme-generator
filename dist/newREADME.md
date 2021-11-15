@@ -1,7 +1,8 @@
-# Project 1
+# Project
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This is a really cool project
+  this is a project
 
   ## Table of Contents
   *[Installation](#installation)
@@ -12,19 +13,19 @@
   *[Questions](#questions)
 
   ## Installation
-  Jen was a huge help.
+  you install it
 
   ## Usage
-  instructions
+  just use it
 
   ## License
   undefined
 
   ## Contributing
-  Jen and Luke and Nick
+  me and jen and nick
 
   ## Test
-  just run it dude
+  just test it
 
   ## Questions
   Please check out my [GitHub](https://github.com/lukejohnsen) or email me at johnsen.luke@gmail.com
